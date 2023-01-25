@@ -34,25 +34,25 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## Open Source ✅
 
-- [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds)
-  [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
-  [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
-  [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
-  [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
-  [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
-  [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
-  [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
-  ![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/time-to-seconds)
-  ![npms.io (quality)](https://img.shields.io/npms-io/quality-score/time-to-seconds)
-  ![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
-  ![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
-  ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
-  [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
+[![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
+[![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
+[![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
+[![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+[![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+[![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
+[![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
+![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/time-to-seconds)
+![npms.io (quality)](https://img.shields.io/npms-io/quality-score/time-to-seconds)
+![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
+![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 - [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
 
 <br>
 
-- [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 - VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 
 ## PRs 🔀
