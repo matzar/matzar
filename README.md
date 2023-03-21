@@ -2,7 +2,7 @@
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
-| <a href="https://matzar.github.io/" target="_blank">https://matzar.github.io/</a>
+| <a href="https://matzar.github.io/" target="_blank">university projects</a>
 | <a href="https://matzar.github.io/markdown-cv/" target="_blank">resume</a>
 </div>
 
