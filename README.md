@@ -2,8 +2,9 @@
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
-| <a href="https://matzar.github.io/" target="_blank">university projects</a>
-| <a href="https://matzar.github.io/markdown-cv/" target="_blank">resume</a>
+| <a href="https://matzar.github.io/markdown-cv/" target="_blank">portfolio resume</a>
+| <a href="https://matzar.github.io/" target="_blank">personal website+university projects</a>
+  
 </div>
 
 <br>
